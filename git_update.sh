@@ -6,3 +6,4 @@ git commit -m "$1"
 echo "Start git push"
 git push origin main
 echo "End"
+exit
