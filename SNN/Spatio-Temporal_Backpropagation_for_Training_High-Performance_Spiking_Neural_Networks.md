@@ -22,4 +22,22 @@
 - 我们的贡献
   - 建立了一个迭代LIP模型，具有SNN动态，可用梯度下降
   - 在反向传递时同时考虑空间域和时间域，提高网络精度
-  - 
+  - 近似，解决脉不可微
+  - 避免任何复杂的训练方法
+  - 最佳精度
+  - 系统地分析了时域动态和不同近似方法
+
+## 2 Methods and Materials
+
+### 2.1 Iterative Leaky Integrate-And-Fire Model
+
+- LIF模型是用来描述SNN神经元动态的常用模型
+
+  <img src="./img/01-01.png" alt="01-01" style="zoom:40%;" />
+
+  <img src="./img/01-02.png" alt="01-02" style="zoom:40%;" />
+
+- 
+
+
+
